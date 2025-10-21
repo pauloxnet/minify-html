@@ -27,6 +27,8 @@ index.node
 
 # Python
 *.egg-info/
+.venv/
+.venv*/
 
 # WASM
 /minify-html-wasm/pkg/
